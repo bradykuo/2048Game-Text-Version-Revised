@@ -38,7 +38,7 @@ An revised text-based version of the classic 2048 game implemented in C++. This 
 ### On macOS/Linux
 ```bash
 # Clone the repository
-git clone https://github.com/bradykuo/2048game_textversion_revised.git
+git clone https://github.com/bradykuo/2048_text_version_game_revised.git
 cd 2048game_textversion_revised
 
 # Compile
