@@ -1,1 +1,1 @@
-# 2048 game text version_revised
+# 2048 文字版遊戲＿改良版
