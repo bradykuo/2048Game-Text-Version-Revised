@@ -6,14 +6,14 @@ An revised text-based version of the classic 2048 game implemented in C++. This 
 
 - Traditional 2048 game mechanics
 - Extended movement in 8 directions:
-  - Up (T)
-  - Down (B)
-  - Left (F)
-  - Right (H)
-  - Upper-left (R)
-  - Upper-right (Y)
-  - Lower-left (V)
-  - Lower-right (N)
+  - Up (W)
+  - Down (X)
+  - Left (A)
+  - Right (D)
+  - Upper-left (Q)
+  - Upper-right (E)
+  - Lower-left (Z)
+  - Lower-right (C)
 - Game state saving and loading
 - Score tracking
 - File corruption detection and handling
@@ -39,7 +39,7 @@ An revised text-based version of the classic 2048 game implemented in C++. This 
 ```bash
 # Clone the repository
 git clone https://github.com/bradykuo/2048_text_version_game_revised.git
-cd 2048game_textversion_revised
+cd 2048_text_version_game_revised
 
 # Compile
 g++ main.cpp game.cpp -o 2048game
@@ -59,17 +59,17 @@ g++ main.cpp game.cpp -o 2048game.exe
 
 ## Game Controls
 
-- T: Move Up
-- B: Move Down
-- F: Move Left
-- H: Move Right
-- R: Move Upper-left
-- Y: Move Upper-right
-- V: Move Lower-left
-- N: Move Lower-right
-- O: Save game
-- P: Load game
-- ESC: Quit game
+- W: Move Up
+- X: Move Down
+- A: Move Left
+- D: Move Right
+- Q: Move Upper-left
+- E: Move Upper-right
+- Z: Move Lower-left
+- C: Move Lower-right
+- S: Save game
+- L: Load game
+- ESC or B: Quit game
 
 ## Implementation Details
 
