@@ -1,1 +1,1 @@
-# 2048-_revised
+# 2048 game text version_revised
