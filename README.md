@@ -1,6 +1,6 @@
 # 2048 文字版遊戲＿改良版
 
-An enhanced text-based version of the classic 2048 game implemented in C++. This version extends the traditional 2048 game with additional diagonal movement capabilities and save/load functionality.
+An revised text-based version of the classic 2048 game implemented in C++. This version extends the traditional 2048 game with additional diagonal movement capabilities and save/load functionality.
 
 ## Features
 
