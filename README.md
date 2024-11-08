@@ -101,4 +101,4 @@ This game was developed as part of a programming assignment with the following k
 
 ## License
 
-This project is available under the MIT License. See the LICENSE file for more details.
+This project is available for academic and educational purposes.
