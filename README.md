@@ -95,9 +95,9 @@ This game was developed as part of a programming assignment with the following k
 3. Use object-oriented programming principles
 4. Implement custom exception handling
 
-## Contributors
+## Contributing
 
-- [bradykuo](https://github.com/bradykuo)
+Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
